@@ -22,7 +22,7 @@ AZDeals-Domain is a Node.js-based microservice responsible for fetching real-tim
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/AZDeals-domain.git
+   git clone https://github.com/PrateekChauhan0194/AZDeals-domain.git
    cd AZDeals-domain
    ```
 
